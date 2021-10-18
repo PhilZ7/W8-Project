@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "movieName": "Blank Check",
+    "release": 1994,
+    "imageURL" : "https://m.media-amazon.com/images/M/MV5BMjE2MzE2NjkzNF5BMl5BanBnXkFtZTcwODM1MjgyMQ@@._V1_.jpg"
+  },
+  {
+    "id": 2,
+    "movieName": "Luca",
+    "release": 2021,
+    "imageURL" : "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg"
+  },
+  {
+    "id": 3,
+    "movieName": "Moana",
+    "release": 2016,
+    "imageURL" : "https://sixactstructure.com/wp-content/uploads/2018/09/Moana-Movie-Poster.jpg"
+  },
+  {
+    "id": 4,
+    "movieName": "Antboy",
+    "release": 2013,
+    "imageURL" : "https://m.media-amazon.com/images/M/MV5BMTQ3OTY3NDA3Nl5BMl5BanBnXkFtZTgwOTgzMjIwMDI@._V1_.jpg"
+  },
+  {
+    "id": 5,
+    "movieName": "Teenage Mutant Ninja Turtles",
+    "release": 1990,
+    "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWh6sQIkH6WPMrLVms2ooyXz2y0dZQOIJtJ_gsnpujXdMC8kLt"
+  },
+  {
+    "id": 6,
+    "movieName": "Shrek",
+    "release": 2001,
+    "imageURL" : "https://i1.sndcdn.com/artworks-000313734951-unjpoi-t500x500.jpg"
+  }
+]

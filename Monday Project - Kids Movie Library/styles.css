@@ -1,0 +1,125 @@
+/* * {
+  font-size: x-large;
+  font-stretch: extra-expanded;
+} */
+
+main {
+  background-image: url('https://cms.qz.com/wp-content/uploads/2017/03/cinepolis-movie-theater-e1488997251456.jpg?quality=75&strip=all&w=1600&h=900&crop=1');
+  background-blend-mode: darken;
+  size: 90%;
+  display: flex; 
+  justify-content: center;
+  font-family: 'Festive', cursive;
+  margin: 0;
+  padding: 0;
+  font-family: 'Butterfly Kids', cursive;
+  font-size: 48px;
+}
+
+header {
+  height: 80px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  color: rgb(211, 73, 190);
+  background-image: linear-gradient(to right, pink, white, green);
+  font-family: 'Indie Flower', cursive;
+}
+
+form {
+  width: 700px;
+  height: 500px;
+  background-color: wheat;
+  position: relative;
+  display: flex; 
+  flex-direction: column;
+  justify-content: space-evenly; 
+  align-items: center;
+  margin: 30px;
+}
+
+button {
+  background-color: lightpink;
+  width: 150px;
+  height: 100px;
+  color: purple;
+  border: solid 3px;
+  margin: 5px;
+  font-size: 40px;
+  font-family: 'Butterfly Kids', cursive;
+}
+
+input[type='text'] {
+  width: 85%;
+  height: 50px;
+  border: none;
+  border-bottom: 3px solid #232323;
+  color: blue;
+  background-color: snow;
+  font-family: 'Butterfly Kids', cursive;
+  font-size: 40px;
+}
+
+/* #price-container {
+  width: 10%;
+} */
+
+/* #radio-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+} */
+
+#movies-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  width: 300px; 
+  height: 300px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.movie-card {
+  background-color: rgb(21, 227, 62);
+  width: 300px;
+  margin: 20px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  opacity: 0.94;
+}
+
+.movieName {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.release {
+  font-size: 15px;
+  margin: 5px 0;
+}
+
+.btns-container {
+  width: 100%; 
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px;
+}
+
+.btns-container > button {
+  width: 20px;
+}
+
+img {
+  height: 280px;
+  width: auto;
+}
