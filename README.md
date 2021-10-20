@@ -1,10 +1,11 @@
 ### W8-Project
-Week 8 project during DevMountain coding bootcamp, for this particular project, we had 1 1/2 days of coding available.
-
-[Preview!](/Monday Project - Kids Movie Library/mymovielibrary-preview.png)
+Week 8 project during DevMountain coding bootcamp. 
+For this particular project, we had 1 1/2 days of coding available.
 
 ##### My Movie Library
 I wanted my kids to have a visual library of movies we've watched together, so we'd spend less time on what to pick next, then I started coding!
+
+![mymovielibrary-preview](https://user-images.githubusercontent.com/88560961/138167028-0ab76198-36cb-4d2e-8c2c-679ca7206de8.png)
 
 ##### Description
 My Movie Library is an app where you can add movies you've watched for easy referencing.
@@ -28,15 +29,14 @@ It was build using node.js and express, listed on package.json.
 
 Authors
 Phil Meca
-@PhilZ7
+(@PhilZ7)
 
 Version History
 0.2
 
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
+Various bug fixes and optimizations - See commit change or See release history
+
+0.1 - Initial Release
 
 License
 This project is licensed under the MIT License.
