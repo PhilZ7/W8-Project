@@ -1,7 +1,7 @@
 ### W8-Project
 Week 8 project during DevMountain coding bootcamp, for this particular project, we had 1 1/2 days of coding available.
 
-[Preview!](./mymovielibrary-preview.png)
+[Preview!](Monday Project - Kids Movie Library/mymovielibrary-preview.png)
 
 ##### My Movie Library
 I wanted my kids to have a visual library of movies we've watched together, so we'd spend less time on what to pick next, then I started coding!
